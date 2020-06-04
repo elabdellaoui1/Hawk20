@@ -1,2 +1,2 @@
 # HAWK SOSE2020 
-Repository fürs Wall-A-001-Projekt
+Repository für das Wall-A-001-Projekt
